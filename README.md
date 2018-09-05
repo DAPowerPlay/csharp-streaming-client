@@ -1,3 +1,6 @@
+csharp-streaming-client-example
+===============================
+
 This is an example how to use [SocketIoClientDotNet](https://github.com/Quobject/SocketIoClientDotNet) 
 to connect to our [DPP DataStreams](https://platform.dapowerplay.com/services/free).
 
