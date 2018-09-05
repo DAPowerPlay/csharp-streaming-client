@@ -1,0 +1,14 @@
+*.suo
+*.user
+*.vs
+_ReSharper.*
+*.db
+
+**/appsettings.Development.json
+**/appsettings.Staging.json
+**/appsettings.Production.json
+
+bin
+obj
+
+**/BPTool
